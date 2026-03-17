@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55d9d229166467a4",
+        "id": "1e214d1c7c38ad94",
         "type": "tabs",
         "children": [
           {
-            "id": "346fc626fec1f346",
+            "id": "2a99451141c176aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/README.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "新标签页"
             }
           }
         ]
@@ -186,13 +182,19 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "346fc626fec1f346",
+  "active": "2a99451141c176aa",
   "lastOpenFiles": [
+    "Clippings/Obsidian通过github实现同步（Obsidian Git）.md",
+    "Diary/README.md.md",
+    "Diary/2026-03-17.md",
+    "info 4.plist",
+    "Pasted image 20260317194808.png",
+    "info 3.plist",
+    "info 2.plist",
+    "info 1.plist",
     "info.plist",
     "Clippings/拥抱黑盒：一个研究者 All in AI 的实录与反思.md",
-    "Diary/README.md.md",
     "2026-03-17.md",
-    "Diary/2026-03-17.md",
     "Diary",
     "Clippings/Obsidian Skills：让 AI 智能体精通 Obsidian 知识管理.md",
     "欢迎.md",
