@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "看完疯狂动物城2，快速制作刷圈票根 - 小红书"
             }
+          },
+          {
+            "id": "61c1f6aad27357f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,11 +197,11 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "2a99451141c176aa",
+  "active": "61c1f6aad27357f1",
   "lastOpenFiles": [
+    "Clippings/看完疯狂动物城2，快速制作刷圈票根 - 小红书.md",
     "Diary/2026-03-18.md",
     "Clippings/A single platform to power all your agents  SDKs, CLIs & MCP.md",
-    "Clippings/看完疯狂动物城2，快速制作刷圈票根 - 小红书.md",
     "技能树/crawler/README.md",
     "技能树/crawler/06-架构层.md",
     "技能树/crawler/05-验证层.md",
