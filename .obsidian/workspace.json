@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技能树/crawler/README.md",
+                "file": "Clippings/A single platform to power all your agents  SDKs, CLIs & MCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "A single platform to power all your agents  SDKs, CLIs & MCP"
             }
           }
         ]
@@ -188,13 +188,14 @@
   },
   "active": "2a99451141c176aa",
   "lastOpenFiles": [
+    "技能树/crawler/README.md",
+    "Clippings/A single platform to power all your agents  SDKs, CLIs & MCP.md",
     "技能树/crawler/06-架构层.md",
     "技能树/crawler/05-验证层.md",
     "技能树/crawler/04-持久层.md",
     "技能树/crawler/03-行为层.md",
     "技能树/crawler/02-环境层.md",
     "技能树/crawler/01-基础层.md",
-    "技能树/crawler/README.md",
     "技能树/crawler/反反爬虫技能树.md",
     "技能树/crawler",
     "技能树",
