@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-03-18"
             }
+          },
+          {
+            "id": "158b65aa50f42634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "命令行/清理存储关联命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "清理存储关联命令"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +201,13 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "7957098f3aadb716",
+  "active": "158b65aa50f42634",
   "lastOpenFiles": [
-    "Clippings/看完疯狂动物城2，快速制作刷圈票根 - 小红书.md",
+    "Diary/2026-03-19.md",
+    "命令行",
     "Diary/2026-03-18.md",
+    "命令行/清理存储关联命令.md",
+    "Clippings/看完疯狂动物城2，快速制作刷圈票根 - 小红书.md",
     "Clippings/A single platform to power all your agents  SDKs, CLIs & MCP.md",
     "技能树/crawler/README.md",
     "技能树/crawler/06-架构层.md",
@@ -216,7 +234,6 @@
     "Clippings/Obsidian Skills：让 AI 智能体精通 Obsidian 知识管理.md",
     "欢迎.md",
     "Clippings/Thread by @WaytoAGI.md",
-    "Clippings",
-    "未命名/未命名"
+    "Clippings"
   ]
 }
