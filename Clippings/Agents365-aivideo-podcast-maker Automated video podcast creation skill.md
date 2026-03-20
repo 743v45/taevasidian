@@ -225,14 +225,6 @@ videos/{视频名称}/
 ## 开源协议
 
 MIT
-
-## 支持作者
-
-如果这个项目对你有帮助，欢迎支持作者：
-
-| [![微信支付](https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/wechat-pay.png)](https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/wechat-pay.png)   **微信支付** | [![支付宝](https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/alipay.png)](https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/alipay.png)   **支付宝** | [![Buy Me a Coffee](https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/buymeacoffee.png)](https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/buymeacoffee.png)   **Buy Me a Coffee** |
-| --- | --- | --- |
-
 ## 作者
 
 **Agents365-ai**

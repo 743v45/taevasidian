@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fee67c7f42e75b87",
+        "id": "2151c00ba4109da4",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1dc2f2345fa04a",
+            "id": "59fb0a747f253b05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Agents365-aivideo-podcast-maker Automated video podcast creation skill.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agents365-aivideo-podcast-maker Automated video podcast creation skill"
+              "title": "新标签页"
             }
           }
         ]
@@ -186,10 +182,11 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "ec1dc2f2345fa04a",
+  "active": "59fb0a747f253b05",
   "lastOpenFiles": [
-    "Clippings/MOGE.md",
+    "Diary/2026-03-20.md",
     "Clippings/Agents365-aivideo-podcast-maker Automated video podcast creation skill.md",
+    "Clippings/MOGE.md",
     "命令行/清理存储关联命令.md",
     "Diary/2026-03-18.md",
     "Diary/2026-03-19.md",
