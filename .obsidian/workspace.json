@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2151c00ba4109da4",
+        "id": "ff065fd983643397",
         "type": "tabs",
         "children": [
           {
-            "id": "59fb0a747f253b05",
+            "id": "995f8bd7865617bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/协调 Claude Code 会话团队.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "协调 Claude Code 会话团队"
+              "title": "新标签页"
             }
           }
         ]
@@ -186,7 +182,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "59fb0a747f253b05",
+  "active": "995f8bd7865617bd",
   "lastOpenFiles": [
     "Clippings/协调 Claude Code 会话团队.md",
     "Diary/2026-03-20.md",
